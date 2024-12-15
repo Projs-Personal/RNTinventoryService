@@ -1,0 +1,1 @@
+--INSERT INTO `t_inventory` (`quantity`, `sku_code`) VALUES (10, 'notihing') (100, 'nokia') (30, 'galaxy');
